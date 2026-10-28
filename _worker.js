@@ -2,7 +2,7 @@ import { connect } from "cloudflare:sockets";
 
 // Variables
 let serviceName = "";
-let APP_DOMAIN = "";
+let APP_DOMAIN = "darkdocker.qzz.io";
 
 let prxIP = "";
 let cachedPrxList = [];
